@@ -133,9 +133,4 @@ baidu_short_link_token = '*********************' # https://dwz.cn/console/userin
 
 **V1**：大体完成，能跑，似乎没bug
 
-## 赞赏
-
-如果觉得项目对你有用的话不妨请我喝杯冰阔落吧 (‾◡◝)
-
-![](pay.jpg)
 
